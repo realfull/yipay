@@ -1,0 +1,2 @@
+﻿<tr><th scope="row">open云支付</th><th scope="row">⭐⭐⭐⭐⭐</th><td><a target="_blank" href="https://open.axiwl.cn"><font color="green">查看</font></a></td></tr>
+<tr><th scope="row">阿喜云支付</th><th scope="row">⭐⭐⭐⭐⭐</th><td><a target="_blank" href="https://www.axiwl.cn"><font color="green">查看</font></a></td></tr>
